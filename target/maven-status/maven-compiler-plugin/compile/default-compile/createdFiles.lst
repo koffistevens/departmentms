@@ -1,0 +1,17 @@
+com\example\departmentms\controller\DepartmentController.class
+com\example\departmentms\service\Service.class
+com\example\departmentms\service\DepartmentServiceImpl.class
+com\example\departmentms\converter\DepartmentDtoConverter.class
+com\example\departmentms\model\dto\DepartmentDto$DepartmentDtoBuilder.class
+com\example\departmentms\model\dto\EmployeeDto$EmployeeDtoBuilder.class
+com\example\departmentms\DepartmentMsApplication.class
+com\example\departmentms\repository\DepartmentRepository.class
+com\example\departmentms\converter\GenericConverter.class
+com\example\departmentms\swagger\OpenApiConfig.class
+com\example\departmentms\model\dto\DepartmentDto.class
+com\example\departmentms\model\dto\DepartmentWithEmployeesListResponseDto$DepartmentWithEmployeesListResponseDtoBuilder.class
+com\example\departmentms\model\entity\Department.class
+com\example\departmentms\model\dto\DepartmentWithEmployeesListResponseDto.class
+com\example\departmentms\model\dto\EmployeeDto.class
+com\example\departmentms\model\entity\Department$DepartmentBuilder.class
+com\example\departmentms\service\DepartmentService.class

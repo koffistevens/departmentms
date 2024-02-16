@@ -1,0 +1,13 @@
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\swagger\OpenApiConfig.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\DepartmentMsApplication.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\service\DepartmentService.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\converter\DepartmentDtoConverter.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\controller\DepartmentController.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\repository\DepartmentRepository.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\model\dto\DepartmentWithEmployeesListResponseDto.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\model\entity\Department.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\converter\GenericConverter.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\model\dto\DepartmentDto.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\model\dto\EmployeeDto.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\service\Service.java
+C:\Users\stevens.koffi\mes_projets_perso\department-ms\src\main\java\com\example\departmentms\service\DepartmentServiceImpl.java
