@@ -1,0 +1,8 @@
+version: '3'
+services:
+  department-ms:
+    container_name: department-ms-container2
+    ports:
+      - '9091:8091'
+    image: department-ms-image:v1
+
